@@ -1,5 +1,5 @@
 ### Week 0 of the Data Science Immersive:  
-#### Because Python is Zero-Indexed.  
+#### It's '0' Because Python is Zero-Indexed...  
 
 ##### Brief forward  
 I was worried about keeping up. I wasn't a coder before - I don't have a STEM background. I did Excel and and logical analysis (qualitative). I know I'm smart enough, but was worrying about being the 'dumb' one inthe class. For anyone else in the same boat - __don't worry__. In my class there are PhD's and there are bartenders. It really seems to be what you put into the coursework that determines what you get at the end. There were college dropouts (smart ones, but still, no college or work experience) who worked their tails off during a cohort two prior who got jobs within two months. Good jobs. 80-100k salaries.    
@@ -15,3 +15,5 @@ What I've been told basically follows the trajectory of the old adage, 'Hard wor
 2. __Here's what it comes down to__  
  * Not having a STEM background feels like the left image below. Focusing on it as the right image gives me the confidence to keep learning. My fellow students and I approach problems in very different ways. And sometimes that it good. If you've coded a lot in R or MatLab and now want to try doing something in Python, there may be an easier way you might not think of because you're in the MatLab framework. I only know Python and SQL, so I can retrain my mind much quicker than others, and that can be a HUGE benefit as the course continues. Or not. I guess only time will tell.  
  ![left > wrong | right > correct](https://cdn-images-1.medium.com/max/800/1*e4p0w6DEB5gQofwCwE4zxQ.png)
+ 
+ Also [here](https://www.youtube.com/watch?v=klgbYfu5MCQ) is some great coding music if you are in need for such a thing. 
